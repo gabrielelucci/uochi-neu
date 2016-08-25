@@ -128,20 +128,20 @@ body {
 	border-left-style: solid;
     border-color: black;
 	height: auto;
-    
+
 }
 #container header {
-    background-image: url("../img/header.png");
+    background-image: url("../images/header.png");
     background-size: contain;
     background-repeat: no-repeat;
     width: 960px;
     height: 270px;
-	margin: auto;
+    margin: auto;
     display: block;
 }
 
 #container header a {
-    position: fixed;
+    position: absolute;
     width: inherit;
     height: inherit;
     background-color: transparent;
